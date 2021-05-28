@@ -24,5 +24,7 @@ TensorFlow is a free and open-source software library for machine learning. It c
 
 
 #### References:
-https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery
-https://www.tensorflow.org/
+
+`https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery`
+
+`https://www.tensorflow.org/`
