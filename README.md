@@ -1,7 +1,7 @@
 # Tensorflow
 
 
-Introduction to machine learning
+## Introduction to machine learning
 
 ### Why machine learning?
 
